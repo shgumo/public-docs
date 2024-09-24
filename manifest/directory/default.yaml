@@ -43,6 +43,9 @@ manifest:
       export:
       footage:
     sbp:
+      dev:
+      exports:
+      smartmaterial:
     unity:
     zbrush:
   in:
